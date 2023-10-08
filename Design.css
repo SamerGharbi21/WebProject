@@ -17,8 +17,7 @@ body ::after {
     height: 100%;
     background: rgba(255 , 255 , 255 , 0.2);
     position: absolute;
-    z-index: -1;
-    clip-path: circle(50% at right 50%);
+    clip-path:circle(50% at right 50%);
 }
 .container{
     width: 80%;
